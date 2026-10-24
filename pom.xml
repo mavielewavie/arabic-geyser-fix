@@ -29,12 +29,6 @@
             <version>2.2.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>org.cloudburstmc.protocol</groupId>
-            <artifactId>bedrock-codec</artifactId>
-            <version>3.0.0.Final</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
 
     <build>
