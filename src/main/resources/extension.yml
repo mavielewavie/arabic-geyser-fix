@@ -1,0 +1,6 @@
+id: arabic-geyser-fix
+name: Arabic Geyser Fix
+version: 1.0.0
+authors:
+  - ArabicFixDev
+description: Pre-shapes Arabic text for Bedrock clients only. Java players are unaffected.
