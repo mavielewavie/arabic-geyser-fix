@@ -1,0 +1,9 @@
+name: ArabicGeyserFix
+version: 2.0.0
+main: com.arabicfix.paper.ArabicGeyserFixPlugin
+api-version: '1.21'
+depend:
+  - packetevents
+softdepend:
+  - Geyser-Spigot
+  - floodgate
